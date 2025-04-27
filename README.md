@@ -43,7 +43,7 @@ Clone the repository (Exclude the file Results.png as it is only a proof of resu
 Install the required Python packages:
 ##### pip install -r requirements.txt
 
-##Running the Program
+## Running the Program
 
 ### 1. Expanding the Face Dataset:
 Set Up the Dataset
