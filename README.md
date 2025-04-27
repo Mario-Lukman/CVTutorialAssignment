@@ -65,3 +65,4 @@ When a face is detected, it will draw a box and label the recognized person’s 
 
 Press 'q' on your keyboard to quit.
 
+#### Note that in imbalanced datasets, the model will prefer classes with more samples. Try and make sure to balance the amount of images that Person1 has with Person2 and so on.
