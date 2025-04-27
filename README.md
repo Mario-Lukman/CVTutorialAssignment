@@ -38,10 +38,7 @@ Copy those people's folders into your project's dataset/ directory
 
 ## Installation
 
-Clone the repository:
-
-git clone [your_repository_url]
-cd 'your_project' (Results.png is not important as it only shows the results)
+Clone the repository (Exclude the file Results.png as it is only a proof of results for this assignment)
 
 Install the required Python packages:
 ##### pip install -r requirements.txt
