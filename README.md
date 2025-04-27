@@ -36,6 +36,9 @@ Pick at least 6 people who have at least 10 images each.
 
 Copy those people's folders into your project's dataset/ directory
 
+Or if you want to try with the dataset I used, download the dataset from the Google Drive link: 
+https://drive.google.com/drive/folders/1vHo7QBbFzo3p2jK6RQkcLftYcJVzKTot?usp=sharing
+
 ## Installation
 
 Clone the repository (Exclude the file Results.png as it is only a proof of results for this assignment)
